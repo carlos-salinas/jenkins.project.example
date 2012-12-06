@@ -22,6 +22,6 @@ public class AppTest
     @Ignore
     @Test
     public void ignoringTest(){
-    	assertTrue(false);
+    	assertTrue(true);
     }
 }
